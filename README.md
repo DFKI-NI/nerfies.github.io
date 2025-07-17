@@ -1,3 +1,7 @@
+# Research paper website template
+
+Watch [the video tutorial](https://youtu.be/4zxtc0_p-xA) to learn how to use this template.
+
 # TODO_ID_CONFERENCE_YEAR
 
 This is the repository that contains source code for the [TODO_ID_CONFERENCE_YEAR website](https://dfki-ni.github.io/TODO_ID_CONFERENCE_YEAR).
