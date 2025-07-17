@@ -1,14 +1,14 @@
-# Nerfies
+# TODO_ID_CONFERENCE_YEAR
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [TODO_ID_CONFERENCE_YEAR website](https://dfki-ni.github.io/TODO_ID_CONFERENCE_YEAR).
 
-If you find Nerfies useful for your work please cite:
+If you find TODO_ID_CONFERENCE_YEAR useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{TODO
+  author       = {TODO_AUTHOR(S)},
+  title        = {TODO_TITLE},
+  conference   = {TODO_CONFERENCE},
+  year         = {TODO_YEAR},
 }
 ```
 
